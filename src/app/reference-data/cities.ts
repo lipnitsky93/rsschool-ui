@@ -10,5 +10,6 @@ export const CITIES: City[] = [
     { id: 'grodna', name: 'Grodna' },
     { id: 'mogilev', name: 'Mogilev' },
     { id: 'vitebsk', name: 'Vitebsk' },
+    { id: 'babruysk', name: 'Babruysk' },
     { id: 'other', name: 'Other' },
 ];
